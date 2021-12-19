@@ -1,0 +1,50 @@
+﻿.panel-transparent {
+            background: none;
+        }
+
+            .panel-transparent .panel-heading {
+                background: rgba(122, 130, 136, 0.2)!important;
+                color: white;
+            }
+
+            .panel-transparent .panel-body {
+                background: rgba(46, 51, 56, 0.2)!important;
+                color: white;
+                text-align: left;
+            }
+
+        .btn-file {
+            position: relative;
+            overflow: hidden;
+        }
+
+            .btn-file input[type=file] {
+                position: absolute;
+                top: 0;
+                right: 0;
+                min-width: 100%;
+                min-height: 100%;
+                font-size: 100px;
+                text-align: right;
+                filter: alpha(opacity=0);
+                opacity: 0;
+                outline: none;
+                background: Blue;
+                cursor: inherit;
+                display: block;
+            }
+
+        body {
+            background: url(../images/banner.jpg) no-repeat center top !important;
+            background-size: cover!important;
+            -webkit-background-size: cover!important;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            min-height: 410px!important;
+            text-align: center;
+            padding-top: 3em;
+        }
+
+        label {
+            font-weight: normal;
+        }

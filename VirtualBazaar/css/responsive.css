@@ -1,0 +1,210 @@
+/* CSS Document */
+
+@media screen and (max-width: 1980px) {
+.responsive_heading {display:none;}
+}
+
+@media screen and (max-width: 1440px) {
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 307px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 564px;}
+.responsive_heading {display:none;}
+}
+
+@media screen and (max-width: 1366px) {
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 290px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 535px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .review .fa {font-size: 14px;}
+.navbar-fixed-side .footer_icon ul>li>a>i {padding: 7px; width: 28px; height: 28px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .view {font-size: 12px;}
+.footer_icon .list-inline > li { padding-bottom: 40px; padding-right: 0px;}
+}
+
+@media screen and (max-width: 1300px) {
+.navbar-fixed-side .footer_icon ul>li>a>i {padding: 8px; width: 30px; height: 30px;}
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 273px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 507px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .review .fa {font-size: 14px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .view {font-size: 12px;}
+}
+
+@media screen and (max-width: 1280px) {
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 268px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 500px;}
+.home_body_sec .category_sec img {width: 265px; height: 148px;}
+.home_body_sec .category_sec:first-child .thumbnail_box .thumbnail .time {margin: -30px 10px 10px 10px; font-size: 14px;}
+.home_body_sec .category_sec .thumbnail_box .thumbnail .time {margin: -27px 10px 10px 10px; font-size: 12px;}
+#signin input[type=text], input[type=password] {width: 94%;}
+#signin button {width: 94%;}
+}
+
+@media screen and (max-width: 1170px) {
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 241px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 414px;}
+.navbar-fixed-top .search_box input[type="text"] {width: 92%;}
+.navbar-fixed-top .login_sec li {padding: 8px 18px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .review .fa {font-size: 12px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .view {font-size: 11px;}
+#signin input[type=text], input[type=password] {width: 93%;}
+#signin button {width: 93%;}
+}
+
+@media screen and (max-width: 1024px) {
+.navbar-fixed-top .login_sec li {padding: 8px 12px;}
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 205px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 360px;}
+.home_body_sec .category_sec:first-child img {width: 364px; height: 200px;}
+.home_body_sec .category_sec img {width: 265px; height: 122px;}
+.home_body_sec .category_sec .thumbnail_box .thumbnail .caption p {margin-bottom: 7px;}
+.thumbnail .caption {height: 155px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .view {position:relative; float:left;}
+#signin input[type=text], input[type=password] {width: 92%;}
+#signin button {width: 92%;}
+}
+
+@media screen and (max-width: 980px) {
+.navbar-fixed-top a>img {width: 100%;}
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 274px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 268px;}
+.navbar-fixed-top .login_sec li {padding: 8px 10px;}
+.thumbnail .caption { height:auto;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .review .fa {font-size: 14px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .view {font-size: 12px;}
+#signin input[type=text], input[type=password] {width: 91%;}
+#signin button {width: 91%;}
+}
+
+@media screen and (max-width: 800px) {
+.navbar-fixed-top .location_box .location .fa-angle-down {padding: 12px 11px 12px 214px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 211px;}
+.navbar-fixed-top .login_sec li {padding: 8px 6px; font-size:12px;}
+.home_body_sec .category_sec img {width: 268px; height: 200px;}
+#signin input[type=text], input[type=password] {width: 90%;}
+#signin button {width: 90%;}
+#signin .modal-content h1 {font-size:28px;}
+}
+
+@media screen and (max-width: 768px) {
+.navbar-fixed-top .col-md-3:nth-child(2) {display:none;}
+.navbar-fixed-top .col-md-5:nth-child(3) {width: 64.333333%;}
+.navbar-fixed-top .col-md-2:nth-child(4) {width: 17.666667%;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 414px;}
+.navbar-fixed-side .footer_icon ul {padding: 0 23px;}
+#signin input[type=text], input[type=password] {width: 89%;}
+#signin button {width: 89%;}
+}
+
+@media screen and (max-width: 640px) {
+.navbar-fixed-top a>img {width: 30%; margin: 0px auto; padding-bottom: 14px;}
+.navbar-fixed-top .search_box input[type="text"] {width: 93%;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 350px;}
+.navbar-fixed-top .col-md-5:nth-child(3) {margin: 0px auto;}
+.navbar-fixed-top .col-md-2:nth-child(4) {width: 35.666667%;}
+.navbar-fixed-top .login_sec li {padding: 8px 14px; font-size: 13px;}
+.nav_body_sec {margin-top: 62px;}
+.body_sec {margin-top:72px;}
+.footer_icon {display:none;}
+.navbar-default .navbar_heading {display:none;}
+.responsive_heading {display:block;}
+.responsive_heading {position:absolute; margin:11px 0; padding: 0 15px; font-size: 21px; text-transform: capitalize; color: #fe4240; line-height: 28px;}
+.home_body_sec .category_sec img {width: 290px; height: 200px;}
+.container-fluid .footer_sec .footer_btn {margin-bottom: 0px; padding: 25px 15px 10px 15px; line-height: 27px;}
+.container-fluid .footer_sec .footer_terms_btn {margin-bottom: 0px; padding: 0px 15px 10px 15px; line-height: 27px;}
+.navbar-fixed-top .search_box {margin-left: 32px;}
+.navbar-fixed-top .login_sec {margin-right: 32px;}
+}
+
+@media screen and (max-width: 600px) {
+.navbar-fixed-top .search_box {margin-left: 20px;}
+.navbar-fixed-top .login_sec {margin-right: 20px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 321px;}
+}
+
+@media screen and (max-width: 540px) {
+.navbar-fixed-top .search_box {margin-left: 10px;}
+.navbar-fixed-top .login_sec {margin-right: 10px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 284px;}
+.nav_body_sec {margin-top: 54px;}
+}
+
+@media screen and (max-width: 500px) {
+.navbar-fixed-top .search_box input[type="text"] {width: 87%;}
+.navbar-fixed-top .search_box {margin-left: 6px;}
+.navbar-fixed-top .login_sec {margin-right: 6px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 284px;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 245px;}
+.nav_body_sec {margin-top: 50px;}
+#signin span.psw {position:absolute !important;}
+}
+
+@media screen and (max-width: 480px) {
+.navbar-fixed-top .search_box {margin-left: 0px;}
+.navbar-fixed-top .login_sec {margin-right: 0px;}
+.navbar-fixed-top .search_box input[type="text"] {width: 90%;}
+.navbar-fixed-top .login_sec li {font-size: 12px;}
+.home_body_sec .category_sec:first-child img {width: 364px; height: 170px;}
+.home_body_sec .category_sec img {width: 290px; height: 160px;}
+}
+
+@media screen and (max-width: 360px) {
+.navbar-fixed-top .col-md-5:nth-child(3) {width: 100%;}
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 284px;}
+.navbar-fixed-top .col-md-2:nth-child(4) {width: 75%;}
+.nav_body_sec {margin-top: 76px;}
+.navbar-fixed-top .col-md-2:nth-child(4) {margin-top: 13px; margin-bottom: -13px;}
+.navbar-fixed-top a>img {width: 40%; margin: 0px auto; padding-bottom: 10px;}
+.home_body_sec .category_sec:first-child img {width: 364px; height: 220px;}
+.category_sec .col-md-4, .col-md-3 {width:100%;}
+.home_body_sec .category_sec img {width: 330px; height: 210px;}
+.container-fluid .footer_sec .footer_btn li>a {font-size: 14px;}
+/*.home_body_sec .category_sec img {width: 290px; height: 120px;}
+.thumbnail .caption {padding-bottom: 29px;}
+.home_body_sec .category_sec:first-child .thumbnail_box .thumbnail .time {font-size: 12px;}
+.body_sec .category_sec .thumbnail_box .thumbnail .caption .view {position:absolute;}*/
+}
+
+@media screen and (max-width: 320px) {
+.navbar-fixed-top .search_box button {margin: 8px 15px 8px 248px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
